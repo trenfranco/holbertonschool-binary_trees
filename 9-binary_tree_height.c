@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_h - height
+ * binary_tree_height - height
  * @tree: pointer to the root node of the tree
  * Return: height or if tree is NULL return 0
  */
